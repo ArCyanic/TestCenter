@@ -1,0 +1,3 @@
+[submodule "oerv_obsdata"]
+	path = oerv_obsdata
+	url = /usr/local/projects/django/testCenter/testMonitor/oerv_obsdata
